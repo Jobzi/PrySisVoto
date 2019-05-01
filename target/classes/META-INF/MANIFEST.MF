@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: PrySisVoto
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jipson Murillo
+Implementation-Vendor-Id: com.sistema.voto.app.web
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/pry-sistema-voto-app-web
+Created-By: Maven Integration for Eclipse
+
